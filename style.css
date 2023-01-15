@@ -20,6 +20,7 @@
   --transition: 250ms ease-in-out;
 }
 
+
 html,
 body {
   scroll-behavior: smooth;
@@ -766,3 +767,5 @@ footer {
     padding-block: 47px 92px;
   }
 }
+
+
